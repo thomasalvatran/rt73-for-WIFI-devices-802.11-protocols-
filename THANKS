@@ -1,0 +1,31 @@
+A big thanks to all the developers, testers and supportors of
+the Ralink legacy drivers.
+
+Thanks to the projects main developers
+
+* Ivo van Doorn - IvDoorn@gmail.com
+* Luis Correia - lfcorreia@users.sf.net
+* Mark Wallis - mwallis@serialmonkey.com
+* Robin Cornelius - robin@cornelius.demon.co.uk
+* Gertjan van Wingerde - gwingerde@users.sourceforge.net
+* Remco - remco_@users.sourceforge.net
+* Ibrahim Damlaj - idamlaj@gmail.com
+* Olivier Cornu - o.cornu@gmail.com
+
+And Special thanks to those that have contributed to the project
+
+* Ralink for the initial code base and for making the license GPL
+* All the people that have assisted with the rt2400/rt2500 source
+  and hence progressed the rt2570 along the way
+* Christian Casteyde - casteydec@users.sourceforge.net
+* Mathias Klein - ma_klein@gmx.de
+* Stephen Warren - SWarren@nvidia.com
+* James Elsdon - monkesys@westnet.com.au
+* dishkuvek
+* Ace17
+* Graham Gower - graham.gower@gmail.com
+* Adam Baker - aabaker@users.sf.net
+* Vitja Makarov - vitja.makarov@gmail.com
+* avl
+* Guillaume Gardey - glinmac at users.sourceforge.net
+* zoof
